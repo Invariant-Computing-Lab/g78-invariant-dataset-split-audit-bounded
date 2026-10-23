@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "id": "a",
+      "source_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "split": "train",
+      "subject": "s1"
+    },
+    {
+      "id": "b",
+      "source_sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+      "split": "test",
+      "subject": "s2"
+    }
+  ]
+}
